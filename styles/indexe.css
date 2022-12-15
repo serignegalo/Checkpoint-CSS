@@ -1,5 +1,5 @@
 nav{
-    display: flex;
+    display: inline;
     justify-content: space-around;
 }
 
@@ -22,5 +22,4 @@ nav a{
 body{
     background-color: rgb(10, 10, 10);
     color: rgb(240, 240, 240);
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
+    font-family: 'Roboto', sans-serif;}
